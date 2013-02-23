@@ -1,6 +1,6 @@
-$LOAD_PATH.unshift "E:/LEKCII/Ruby/Bubble/lib"
+$LOAD_PATH.unshift "../"
 
-require 'score'
+require 'lib/score'
 require 'minitest/autorun'
 
 class TestScore < MiniTest::Unit::TestCase
