@@ -1,4 +1,4 @@
-$LOAD_PATH.unshift "E:/LEKCII/Ruby/Bubble"
+$LOAD_PATH.unshift "../"
 
 require 'lib/iostream'
 require 'lib/score'
