@@ -1,6 +1,6 @@
-$LOAD_PATH.unshift "E:/LEKCII/Ruby/Bubble/lib"
+$LOAD_PATH.unshift "../"
 
-require 'iostream'
+require 'lib/iostream'
 
 class Score
   attr_reader :score
