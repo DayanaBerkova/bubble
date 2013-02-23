@@ -1,6 +1,6 @@
-$LOAD_PATH.unshift "E:/LEKCII/Ruby/Bubble/bin"
+$LOAD_PATH.unshift "../"
 
-require 'game'
+require 'bin/game'
 require 'minitest/autorun'
 
 class TestGame < MiniTest::Unit::TestCase
