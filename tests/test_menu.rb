@@ -1,6 +1,6 @@
-$LOAD_PATH.unshift "E:/LEKCII/Ruby/Bubble/bin"
+$LOAD_PATH.unshift "../"
 
-require 'menu'
+require 'bin/menu'
 require 'minitest/autorun'
 
 class TestMenu < MiniTest::Unit::TestCase
